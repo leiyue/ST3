@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"Anaconda",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"orgmode",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"SublimeTmpl",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Themr",
+		"Vintageous"
+	]
+}
